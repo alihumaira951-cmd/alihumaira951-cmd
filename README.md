@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Humaira Ali 👋
 
-<!--
-**alihumaira951-cmd/alihumaira951-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of financial oversight, audit, risk, and artificial intelligence.
 
-Here are some ideas to get you started:
+I’m a Senior Auditor & Financial Advisor supporting the U.S. Department of Defense, a doctoral researcher focused on AI and decision intelligence, and the author of The Quiet Curriculum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work is centered on a simple question:
+
+How can we use AI to support better decisions without losing transparency, judgment, or accountability?
+
+## What I'm working on
+
+### AI CFO
+An explainable financial decision-intelligence system that connects:
+
+Predict → Recommend → Explain → Simulate → Decide
+
+AI CFO combines financial distress prediction, governance-aware recommendations, SHAP explainability, reinforcement learning, and executive decision support.
+
+🔗 [Live AI CFO Demo](https://ai-cfo-nebius-nvidia-bgkhxcxxkfcu2qucsmwbgw.streamlit.app/)  
+💻 [View the AI CFO Repository](https://github.com/alihumaira951-cmd/ai-cfo-nebius-nvidia)
+
+## Research interests
+
+- Artificial Intelligence
+- Financial Decision Intelligence
+- Explainable AI
+- Reinforcement Learning
+- Predictive Analytics
+- AI Governance
+- Risk & Financial Oversight
+- Agentic AI
+
+## Beyond technology
+
+I’m also the author of ***The Quiet Curriculum***, a book exploring leadership, growth, and the lessons we often learn outside formal systems.
+
+📚 [The Quiet Curriculum on Amazon](https://www.amazon.com/dp/B0GS3JZMZN)
+
+## Connect with me
+
+- LinkedIn: add your LinkedIn link here
+- GitHub: [alihumaira951-cmd](https://github.com/alihumaira951-cmd)
+
+---
+
+*Building at the intersection of finance, technology, governance, and human decision-making.*
