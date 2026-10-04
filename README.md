@@ -39,7 +39,7 @@ I’m also the author of ***The Quiet Curriculum***, a book exploring leadership
 
 ## Connect with me
 
-- LinkedIn: add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/humaira-ali-083077329  
 - GitHub: [alihumaira951-cmd](https://github.com/alihumaira951-cmd)
 
 ---
